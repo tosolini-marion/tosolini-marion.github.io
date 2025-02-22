@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 Research Description
-===
+======
 [Research Description]
 
 
 Research Interests
-===
-Work experience
 ======
 * Institutional Economics and Political Economy
 * Monetary and Financial Economics
@@ -23,5 +21,5 @@ Work experience
 * Economic Sociology
 
 Data
-===
+======
 
