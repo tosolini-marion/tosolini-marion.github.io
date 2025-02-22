@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name ""
 description              : &description ""
 url                      : "https://tosolini-marion.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/tosolini-marion" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tosolini-marion.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "tosolini-marion.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://tosolini-marion/images/tosolini_marion.JPG"
+  avatar           : "/images/tosolini_marion.JPG"
   name             : ""
   bio              : "PhD Student in economics at the University of Lorraine"
   location         : "Nancy, France"
