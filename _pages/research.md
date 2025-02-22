@@ -14,18 +14,14 @@ Research Description
 
 Research Interests
 ===
-*Institutional Economics and Political Economy
-*Monetary and Financial Economics
-*European Integration Process
-*Public Debt and Public Finances
-*Economic Sociology
+Work experience
+======
+* Institutional Economics and Political Economy
+* Monetary and Financial Economics
+* European Integration Process
+* Public Debt and Public Finances
+* Economic Sociology
 
 Data
 ===
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
