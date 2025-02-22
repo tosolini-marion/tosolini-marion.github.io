@@ -7,9 +7,18 @@ redirect_from:
   - /resume
 ---
 
-===
 Research Description
+===
 [Research Description]
 
+
+Research Interests
 ===
-Research interests:
+*Institutional Economics and Political Economy
+*Monetary and Financial Economics
+*European Integration Process
+*Public Debt and Public Finances
+*Economic Sociology
+
+Data
+===
