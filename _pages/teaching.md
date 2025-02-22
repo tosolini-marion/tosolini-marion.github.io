@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+
+
 Lecture
 ===
 Economic Sociology, Bachelor, University of Lorraine, 8h
