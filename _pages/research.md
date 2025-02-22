@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /tosolini-marion/research/
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
