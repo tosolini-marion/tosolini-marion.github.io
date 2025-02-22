@@ -9,11 +9,11 @@ redirect_from:
 
 Research Description
 ======
-[Research Description]
+
 
 
 EN
-<p style="text-align: justify;">
+
 
   
 My thesis deals with the history of European borrowing operations. I study the instruments by which the Commission of the European Communities was empowered to borrow money in the financial markets.
@@ -31,8 +31,6 @@ Ma thèse porte sur l'histoire des emprunts européens. Plus précisément, j'é
 
 En utilisant une approche d'économie politique, je m'intéresse en premier lieu à la négociation de ces instruments d'endettement communautaire et étudie comment de tels mécanismes ont été légitimés et acceptés par les États-membres, qui ont autorisé la Commission à contracter une dette. Dans un seconde temps, je m'intéresse plus précisément à la mise en place concrète des politiques d'emprunt, en étudiant les techniques financières utilisées par la Commission sur les marchés des capitaux.
 
-
-</p>
 
 Research Interests
 ======
