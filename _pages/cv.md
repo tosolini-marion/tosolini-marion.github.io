@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+[📄 Télécharger mon CV](tosolini-marion/files/cv_eng.pdf)
+
+<iframe src="/tosolini-marion/files/cv_eng.pdf" width="100%" height="600px"></iframe>
+
+
 ======
 * PhD in Economics at the University of Lorraine, Nancy, France
   
