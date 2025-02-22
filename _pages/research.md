@@ -14,13 +14,19 @@ Research Description
 
 EN
 
+<div style="text-align: justify;">
+
+  
 My thesis deals with the history of European borrowing operations. I study the instruments by which the Commission of the European Communities was empowered to borrow money in the financial markets.
 
 
 Using a political economy approach, I first analyse the negotiations of these instruments and I identify how the mechanisms were legitimised. Secondly, I focus on the establishment of the Commission's borrowing policy, by examining the financial techniques used by the Commission in the financial markets.
 
+</div>
 
 FR
+
+
 Ma thèse porte sur l'histoire des emprunts européens. Plus précisément, j'étudie les instruments par lesquels la Commission des Communautés Européennes a été habilitée à emprunter des fonds sur les marchés financiers.
 
 
