@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /tosolini-marion/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
