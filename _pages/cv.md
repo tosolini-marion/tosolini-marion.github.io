@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/CV_eng.pdf" width="100%" height="600px"></iframe>
+<iframe src="/files/cv_eng.pdf" width="100%" height="600px"></iframe>
 
