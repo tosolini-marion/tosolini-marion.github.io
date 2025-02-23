@@ -9,10 +9,10 @@ Published work
 ===
 **Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, forthcoming.**
 
-In this article, I study the negotiations and the implementation of the first borrowing mechanism of the European Economic Community (EEC). Using historical archives, I show that following the first oil shock, the Commission of the EEC sought to implement a European policy to tackle the economic effects of the schock. It played the role of a political entrepreneur and successed in imposing its views.
+In this article, I study the negotiations and the implementation of the first borrowing mechanism of the European Economic Community (EEC). Using historical archives, I show that following the first oil shock, the EEC Commission sought to implement a European policy to tackle with the economic consequences of the shock. It played the role of a political entrepreneur and succeeded in imposing its views.
 
 
-The Community Loan Mechanism was implemented in 1975, empowering the Commission to borrow money on the financial markets in order to grant loans to Member States facing balance of paymenets deficits due to the oil shock.
+The Community Loan Mechanism was established in 1975, empowering the Commission to borrow money on the financial markets in order to grant loans to Member States facing balance of payments deficits due to the oil shock.
 
 
 Consequently, the Commission became a supranational borrower on the international capital market (the euromarkets).
@@ -26,7 +26,7 @@ Working Papers
 This article analyses the implementation of the borrowing policy of the first European Community, the European Coal and Steel Community (ECSC). Using historical archives and a hand-created database, I mixed a qualitative and quantitative approach to study the evolution of the financial techniques used by the ECSC to borrow on the financial markets.
 
 
-This study shows that the evolution of the borrowing operations reflects the evolution of the international monetary system. In an initial period, the ECSC borrowed on the American markets, in dollars. It borrowed gradually on European capital markets and then on the euro-dollar market and the euromarkets. From the 1980s ongoing, the ECSC progressively became a borrower on the interbank market, using financial derivatives, such as interest or currency swaps.
+This study shows that the evolution of the borrowing operations reflects the evolution of the international monetary system. In an initial period, the ECSC borrowed on the American markets, in dollars. It borrowed gradually on European capital markets and then on the euro-dollar market and the euromarkets. From the 1980s onwards, the ECSC progressively became a borrower on the interbank market, using financial derivatives, such as interest or currency swaps.
 
 
 
