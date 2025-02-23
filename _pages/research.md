@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Research Description
-======
-
-
-
 EN
 
 
@@ -30,6 +25,22 @@ Ma thèse porte sur l'histoire des emprunts européens. Plus précisément, j'é
 
 
 En utilisant une approche d'économie politique, je m'intéresse en premier lieu à la négociation de ces instruments d'endettement communautaire et étudie comment de tels mécanismes ont été légitimés et acceptés par les États-membres, qui ont autorisé la Commission à contracter une dette. Dans un seconde temps, je m'intéresse plus précisément à la mise en place concrète des politiques d'emprunt, en étudiant les techniques financières utilisées par la Commission sur les marchés des capitaux.
+
+
+
+The Borrowing Policies of the European Communities
+===
+The Commission of the European Communities was empowered to borrow money through 4 instruments:
+
+
+- the **European Coal and Steel Community (ECSC)**: the ECSC Treaty empowered the High Authority of the ECSC to borrow money in order to grant loans
+
+- the **Community Loan Mechanism (CLM)**: the CLM was established in 1975 and empowered the EEC Commission to borrow on the financial markets in order to grant loans to Member States
+  
+- the **New Community Instrument (NCI)**: created in 1978, the instrument empowered the EEC Commission to borrow in order to grant loans to companies
+  
+- **Euratom**: Euratom Treaty authorized borrowing operations. In 1977, the Commission was empowered to contract a debt in order to grant loans to nuclear companies
+
 
 
 Research Interests
