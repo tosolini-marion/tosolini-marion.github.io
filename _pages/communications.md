@@ -15,7 +15,7 @@ Session Managing the Economy
 Title: The Borrowing Policy of the ECSC: Supranational Debt, European integration and the Financialisation of the economy
 
 
-This communications focused on the implement of the European Coal and Steel Community borrowing policy.
+This communication focused on the implementation of the European Coal and Steel Community borrowing policy.
 
 
 **Communication at the national congress of the French political science association, Science Po, Grenoble, 2024.**
