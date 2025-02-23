@@ -20,4 +20,4 @@ Consequently, the Commission became a supranational borrower on the internationa
 
 Working Papers
 ===
-**Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p. [Available here](hhttps://beta.u-strasbg.fr/WP/2024/2024-28.pdf)**
+**Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p. [Available here](hhttps://beta.u-strasbg.fr/WP/2024/2024-28.pdf).**
