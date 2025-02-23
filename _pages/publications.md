@@ -32,10 +32,10 @@ This study shows that the evolution of the borrowing operations reflects the evo
 
 _Regards croisés sur l'économie_ Publications
 ===
-_Regards croisés sur l'économie_ is a socio-economic jounal, founded by French students. [Journal website](https://rce-revue.com/).
+_Regards croisés sur l'économie_ is a socio-economic jounal, founded by French students. [Journal website](https://rce-revue.com/)
 
 
-**Amiotte Suchet A., Glass A., Tosolini M, 'Seeking for innovation. Accumulation, diffusion, legitimation’, _Regards croisés sur l’économie_ [Available here](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2024-1?lang=fr).**
+**Amiotte Suchet A., Glass A., Tosolini M, 'Seeking for innovation. Accumulation, diffusion, legitimation’, _Regards croisés sur l’économie_ [Available here](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2024-1?lang=fr)**
 
 
 **Guérien A. & Tosolini M.,  2023 ‘Demand beyond prices’,  _Regards croisés sur l’économie_, 32, 117-124. [Available here](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2023-1-page-117?lang=fr)**
