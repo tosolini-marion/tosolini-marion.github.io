@@ -21,3 +21,9 @@ Consequently, the Commission became a supranational borrower on the internationa
 Working Papers
 ===
 **Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p. [Available here](https://beta.u-strasbg.fr/WP/2024/2024-28.pdf).**
+
+
+This article analyses the implementation of the borrowing policy of the first European Community, the European Coal and Steel Community (ECSC). Using historical archives and a hand-created database, I mixed a qualitative and quantitative approach to study the evolution of the financial techniques used by the ECSC to borrow on the financial markets.
+
+
+This study shows that the evolution of the borrowing operations reflects the evolution of the international monetary system. In an initial period, the ECSC borrowed on the American markets, in dollars. It borrowed gradually on European capital markets and then on the euro-dollar market and the euromarkets. From the 1980s ongoing, the ECSC progressively became a borrower on the interbank market, using financial derivatives, such as interest or currency swaps.
