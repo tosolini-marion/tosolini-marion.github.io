@@ -12,7 +12,7 @@ redirect_from:
 
 Lecture
 ===
-Economic Sociology, Bachelor, University of Lorraine, 8h
+* Economic Sociology, Bachelor, University of Lorraine, 8h
 
 Teaching Assistant
 ===
