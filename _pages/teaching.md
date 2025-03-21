@@ -14,7 +14,7 @@ Lecture
 ===
 * Economic Sociology, Bachelor, University of Lorraine, 8h
 
-Teaching Assistant
+Tutorials
 ===
 * Macroeconomics 1, Bachelor, 30h, University of Lorraine
 * Macroeconomics 2, Bachelor, 30h,University of Lorraine
