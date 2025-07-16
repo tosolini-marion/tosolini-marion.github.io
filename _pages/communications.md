@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**Communications at the national congress of the French Sociology Association (AFS), Toulouse, 2025.**
+
+
+**Communications at the national congress of the French Political Economy Association (AFEP), Bordeaux, 2025.**
+
+
 
 **Communication at the French Doctoral days of socio-economic studies, École des Mines, Paris, 2024.**
 
