@@ -18,5 +18,6 @@ I am a PhD student in Economics at the University of Lorraine (Nancy) in France.
 My [research](/research/) deals with the history of the European borrowing policies from the 1950s to the 1990s.
 
 
+I am president of the [Social Studies of Finance Association](http://ssfa.free.fr/).
 
-I am also member of the editorial board of [Regards croisés sur l'économie](https://rce-revue.com/).
+I was member of the editorial board of [Regards croisés sur l'économie](https://rce-revue.com/).
