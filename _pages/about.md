@@ -8,11 +8,7 @@ redirect_from:
 ---
 Welcome to my personal website!
 
-I am a PhD student in Economics at the University of Lorraine (Nancy) in France.
-
-
-[Bureau d'Economie théorique et appliquée](https://www.beta-economics.fr/)
-
+I am a PhD student in Economics at the University of Lorraine (Nancy) in France, at the [Bureau d'Economie théorique et appliquée](https://www.beta-economics.fr/)
 
 
 My [research](/research/) deals with the history of the European borrowing policies from the 1950s to the 1990s.
