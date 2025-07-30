@@ -10,5 +10,5 @@ author_profile: true
 
 The European Coal and Steel Community was created in 1952 and disappeared in 2002. The High Authority, the executive power of the Community, was empowered to borrow money in order to grant loans to companies. Thus, debt was an ordinary instrument of the ECSC budget. The High Authority borrowed money between 1954 and 1997 up to $26 billion.
 
-![](images/total_par_an_courants.png)
+![Montants empruntés](images/total_par_an_courants.png)
 
