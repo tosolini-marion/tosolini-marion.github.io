@@ -41,19 +41,19 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-.masthead__menu-item.has-children:hover > .sub-menu {
-  display: block !important;
-  position: absolute;
-  background: white;
-  padding: 0.5em 1em;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  z-index: 1000;
-}
 
 .sub-menu {
   display: none;
-  position: absolute;
-  list-style: none;
+  position: absolute; /* pour qu’il soit au-dessus et pas dans le flux */
+  background: white;
+  padding: 0.5em 1em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   margin: 0;
-  padding: 0;
+  list-style: none;
+  z-index: 1000;
+}
+
+
+.masthead__menu-item.has-children:hover > .sub-menu {
+  display: block;
 }
