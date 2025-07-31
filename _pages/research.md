@@ -38,7 +38,7 @@ The Commission of the European Communities was empowered to borrow money through
 
 - the [**Community Loan Mechanism (CLM)**](/research/eec/): the CLM was established in 1975 and empowered the EEC Commission to borrow on the financial markets in order to grant loans to Member States
   
-- the **New Community Instrument (NCI)**: created in 1978, the instrument empowered the EEC Commission to borrow in order to grant loans to companies
+- the [**New Community Instrument (NCI)**](/research/eec/): created in 1978, the instrument empowered the EEC Commission to borrow in order to grant loans to companies
   
 - **Euratom**: Euratom Treaty authorized borrowing operations. In 1977, the Commission was empowered to contract a debt in order to grant loans to nuclear companies
 
