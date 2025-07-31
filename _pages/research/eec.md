@@ -13,4 +13,4 @@ Unlike the ECSC, the Treaty establishing the EEC did not empower the Commission 
 → **Publication: Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, forthcoming.**
 
 
-- The New Instrument Mechanism
+- The New Community Instrument
