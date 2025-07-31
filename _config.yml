@@ -90,6 +90,10 @@ header:
   nav: main
 
 
+# Pour utiliser du code mathématique
+math: true
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
