@@ -14,3 +14,4 @@ The European Coal and Steel Community was created in 1952 and disappeared in 200
 
 **Figure 1: Annual funds borrowed by the ECSC from 1954 to 1997 in current million US dollars**
 ![Montants empruntés](/images/total_par_an_courants.png)
+Source: Author. To cite: Tosolini, M., ‘Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, BETA Working Paper, 2024-28, 22p.
