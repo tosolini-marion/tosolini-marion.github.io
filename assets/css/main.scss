@@ -53,6 +53,11 @@
   z-index: 1000;
 }
 
+.sub-menu li a {
+  font-weight: normal; /* ou 400 */
+  font-style: normal;
+}
+
 
 .masthead__menu-item.has-children:hover > .sub-menu {
   display: block;
