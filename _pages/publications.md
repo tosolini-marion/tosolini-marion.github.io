@@ -35,6 +35,9 @@ _Regards croisés sur l'économie_ Publications
 _Regards croisés sur l'économie_ is a socio-economic jounal, founded by French students. [Journal website](https://rce-revue.com/)
 
 
+**Monnet, E., Interview by Alex Amiotte Suchet and Marion Tosolini 2025, ‘Organising and financing the war economy’, _Regards croisés sur l’économie_, 36, 27-35. [Available here](https://shs.cairn.info/revue-regards-croises-sur-leconomie-2025-1-page-27?lang=fr)**
+
+
 **Amiotte Suchet A., Glass A., Tosolini M, 'Seeking for innovation. Accumulation, diffusion, legitimation’, _Regards croisés sur l’économie_ [Available here](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2024-1?lang=fr)**
 
 
