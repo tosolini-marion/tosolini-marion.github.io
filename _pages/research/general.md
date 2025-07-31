@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/general
 author_profile: true
+parent: Research
 ---
 
 EN
