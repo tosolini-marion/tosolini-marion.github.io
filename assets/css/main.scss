@@ -40,3 +40,20 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.masthead__menu-item.has-children:hover > .sub-menu {
+  display: block !important;
+  position: absolute;
+  background: white;
+  padding: 0.5em 1em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 1000;
+}
+
+.sub-menu {
+  display: none;
+  position: absolute;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
