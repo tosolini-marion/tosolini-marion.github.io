@@ -3,6 +3,7 @@ title: "The European Coal and Steel Community"
 permalink: /research/ecsc/
 layout: single
 author_profile: true
+parent: Research
 ---
 
 **Publication:** Tosolini, M., [‘Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’](https://beta.u-strasbg.fr/WP/2024/2024-28.pdf), BETA Working Paper, 2024-28, 22p.
