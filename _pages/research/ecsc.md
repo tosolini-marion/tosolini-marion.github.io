@@ -1,5 +1,5 @@
 ---
-title: "The European Coal and Steel Community"
+title: "The borrowing policy of the European Coal and Steel Community"
 permalink: /research/ecsc/
 layout: single
 author_profile: true
