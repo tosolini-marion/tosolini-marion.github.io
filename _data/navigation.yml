@@ -12,6 +12,8 @@ main:
         url: /research/ecsc/
       - title: "The EEC"
         url: /research/eec/
+      - title: "General"
+        url: /research/general/
   
   - title: "Publications"
     url: /publications/
