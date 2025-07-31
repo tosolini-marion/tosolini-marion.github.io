@@ -35,7 +35,7 @@ The Commission of the European Communities was empowered to borrow money through
 
 - the [**European Coal and Steel Community (ECSC)**](/research/ecsc/): the ECSC Treaty empowered the High Authority of the ECSC to borrow money in order to grant loans
 
-- the **Community Loan Mechanism (CLM)**: the CLM was established in 1975 and empowered the EEC Commission to borrow on the financial markets in order to grant loans to Member States
+- the [**Community Loan Mechanism (CLM)**](/research/eec/): the CLM was established in 1975 and empowered the EEC Commission to borrow on the financial markets in order to grant loans to Member States
   
 - the **New Community Instrument (NCI)**: created in 1978, the instrument empowered the EEC Commission to borrow in order to grant loans to companies
   
