@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /research/general
+permalink: /research/general/
 author_profile: true
 ---
 EN
