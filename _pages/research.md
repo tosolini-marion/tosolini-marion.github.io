@@ -45,7 +45,7 @@ The Commission of the European Communities was empowered to borrow money through
   
 - the [**New Community Instrument (NCI)**](/research/eec/): created in 1978, the instrument empowered the EEC Commission to borrow in order to grant loans to companies
   
-- **Euratom**: Euratom Treaty authorized borrowing operations. In 1977, the Commission was empowered to contract a debt in order to grant loans to nuclear companies
+- [**Euratom**](/research/euratom/): Euratom Treaty authorized borrowing operations. In 1977, the Commission was empowered to contract a debt in order to grant loans to nuclear companies
 
 
 
