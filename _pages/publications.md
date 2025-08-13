@@ -7,7 +7,7 @@ author_profile: true
 
 Published work
 ===
-**Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, 2024, 27p. [Available here](https://journals.openedition.org/ei/8044)**
+**Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, 2024, 27p. [Available here in french](https://journals.openedition.org/ei/8044)**
 
 In this article, I study the negotiations and the implementation of the first borrowing mechanism of the European Economic Community (EEC). Using historical archives, I show that following the first oil shock, the EEC Commission sought to implement a European policy to tackle with the economic consequences of the shock. It played the role of a political entrepreneur and succeeded in imposing its views.
 
