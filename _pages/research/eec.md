@@ -7,7 +7,7 @@ math: true
 ---
 Unlike the ECSC, the Treaty establishing the EEC did not empower the Commission to borrow funds from financial markets. However, specific and temporary instruments were created, empowering the institution to raise debt:
 
-- the Community Loan Mechanism
+- **the Community Loan Mechanism**
 
 
 → **Publication: Tosolini, M. (2024), ['The First Oil Shock and the European Financial Assistance'](https://journals.openedition.org/ei/8044), _Economie & Institutions_, 34-35, 27p.**
@@ -18,6 +18,6 @@ Following the economic consequences of the first oil shock, the EEC Commission a
 If you want to use these elements, please cite the article.
 
 
-- The New Community Instrument
+- **The New Community Instrument**
 
 The EEC member states agreed in 1978 to implement a second EEC borrowing instrument, named the 'New Community Instrument'. It empowered the Commission to borrow from the financial markets in order to grant loans to companies. This was a mechanism to support the investment in the Community.
