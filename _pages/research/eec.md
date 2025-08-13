@@ -20,3 +20,4 @@ If you want to use these elements, please cite the article.
 
 - The New Community Instrument
 
+The EEC member states agreed in 1978 to implement a second EEC borrowing instrument, named the 'New Community Instrument'. It empowered the Commission to borrow from the financial markets in order to grant loans to companies. This was a mechanism to support the investment in the Community.
