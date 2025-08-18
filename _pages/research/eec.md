@@ -14,6 +14,8 @@ Unlike the ECSC, the Treaty establishing the EEC did not empower the Commission 
 
 Following the economic consequences of the first oil shock, the EEC Commission and its Member States agreed to implement a financial assistance to member states. Through the Community Loan Mechanism, the EEC Commission was empowered to borrow from the financial markets in order to grant loans to member states facing balance of payments deficits due to the oil shock. In this [article](https://journals.openedition.org/ei/8044), you can find [here](https://journals.openedition.org/ei/docannexe/image/8044/img-2.png) every borrowing operation made by the Commission for the CLM between 1976 and 1993.
 
+Between 1976 and 1993, the EEC Commission borrowed up to 16 billion ECU (the equivalent of 21.45 billion US dollars) through 31 borrowing contracts.
+
 
 If you want to use these elements, please cite the article.
 
