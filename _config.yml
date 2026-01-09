@@ -7,16 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Marion Tosolini"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://tosolini-marion.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tosolini-marion/tosolini-marion.github.io"
+locale                   : "en-US"  # Language of your site, adjust as needed.
+site_theme               : "default"  # The available themes are: "default", "air", "sunrise", "mint", "dirt", and "contrast"
+title                    : "Marion Tosolini"  # The title of your site, can be your name or a description.
+title_separator          : "-"  # Separator used in the title (e.g., "Your Name - Portfolio").
+name                     : "Marion Tosolini"  # Your name.
+description              : "Portfolio académique de Marion"  # A short description of your site.
+url                      : "https://tosolini-marion.github.io"  # The base hostname & protocol for your site.
+baseurl                  : ""  # The subpath of your site, e.g., "/blog". Leave empty if your site is at the root.
+repository               : "tosolini-marion/tosolini-marion.github.io"  # The repository name, used for GitHub Pages.
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
