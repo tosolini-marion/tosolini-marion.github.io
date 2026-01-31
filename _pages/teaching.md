@@ -13,6 +13,8 @@ redirect_from:
 Lecture
 ===
 * Economic Sociology, Bachelor (Economics), University of Lorraine, 8h
+* Political Economy of financial systems, Master (Economics), Ecole Normale Supérieure Paris-Saclay, 2h
+* European Economics, Bachelor (Economics), University of Lorraine, 2h
 
 Tutorials
 ===
