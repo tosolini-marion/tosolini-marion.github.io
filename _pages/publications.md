@@ -15,7 +15,7 @@ Tosolini, M., 'Financial sovereignty and monetary dependence', _Revue d'économi
 
 
 
-**Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, 2024, 27p.**
+Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, 2024, 27p.
 
 [Available here in french](https://journals.openedition.org/ei/8044)
 
@@ -35,7 +35,7 @@ Consequently, the Commission became a supranational borrower on the internationa
 
 ## Working Papers
 
-**Amiotte Suchet, A; Tosolini, M. 'Public financing of the economy in a financialised context: A critical literature review'**
+Amiotte Suchet, A; Tosolini, M. 'Public financing of the economy in a financialised context: A critical literature review'
 
 [BETA working paper 2026-17](https://www.beta-economics.fr/working-papers/2026-17/)
 
