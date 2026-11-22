@@ -35,6 +35,19 @@ Consequently, the Commission became a supranational borrower on the internationa
 
 ## Working Papers
 
+**Amiotte Suchet, A; Tosolini, M. 'Public financing of the economy in a financialised context: A critical literature review'**
+
+[BETA working paper 2026-17](https://www.beta-economics.fr/working-papers/2026-17/)
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+Since the 1990s, a growing body of literature has examined the role of the state in the economy within the financialised accumulation regime. However, despite the proliferation of such studies, this literature remains fragmented, with no real attempt to bring coherence to it. This article pursues three objectives. First, it offers a synthetic review of this scholarship and shows that the investor state and derisking state frameworks form part of a single research programme on the public financing of the financialised economy, and that they help to explain the persistence of financialisation despite its well-documented fragilities. Second, we show through two case studies that the instruments of public financing display strong long-term continuity. Third, we argue that what truly characterises financialised public intervention is not the instruments themselves but the techniques through which they operate and their position within the architecture of public action. This article thereby echoes recent calls for periodisations that articulate continuity and rupture rather than collapse one into the other.
+
+</details>
+
+
+
 **Tosolini, M., [Tadjeddine, Y.](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/) and Vincensini, C., 'Becoming a safe issuer without being a sovereign: the case of bond issuance by the European Coal and Steel Community’, _BETA Working Paper_, 2026-02, 25p.**
 
 [Available here in french](https://beta.u-strasbg.fr/WP/2026/2026-02.pdf).
