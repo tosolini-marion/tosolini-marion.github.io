@@ -8,7 +8,7 @@ author_profile: true
 Published work
 ===
 
-**Tosolini, M., 'Financial sovereignty and monetary dependence', _Revue d'économie financière_, 2026/3 n° 163 , 27p. [Available here in french]([https://journals.openedition.org/ei/8044](https://shs.cairn.info/revue-d-economie-financiere-2026-3-page-199?lang=fr))**
+### Tosolini, M., 'Financial sovereignty and monetary dependence', _Revue d'économie financière_, 2026/3 n° 163 , 27p. [Available here in french]([https://journals.openedition.org/ei/8044](https://shs.cairn.info/revue-d-economie-financiere-2026-3-page-199?lang=fr))
 
 
 
