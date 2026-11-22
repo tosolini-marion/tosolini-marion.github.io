@@ -20,7 +20,7 @@ author_profile: true
 [Available here in french](https://journals.openedition.org/ei/8044)
 
 <details markdown="1">
-<summary><span style="color:#267CB9;">Abstract</span></summary>
+<summary><span style="color:##548B70;">Abstract</span></summary>
 
 
 In this article, I study the negotiations and the implementation of the first borrowing mechanism of the European Economic Community (EEC). Using historical archives, I show that following the first oil shock, the EEC Commission sought to implement a European policy to tackle with the economic consequences of the shock. It played the role of a political entrepreneur and succeeded in imposing its views.
