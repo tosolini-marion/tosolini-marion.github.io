@@ -90,7 +90,7 @@ Guérin A. & Tosolini M.,  2023 ‘Demand beyond prices’,  _Regards croisés s
 [Available here](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2023-1-page-117?lang=fr)
 
 
-### Interview
+### Interviews
 
 Monnet, E., Interview by Alex Amiotte Suchet and Marion Tosolini 2025, ‘Organising and financing the war economy’, _Regards croisés sur l’économie_, 36, 27-35.
 
