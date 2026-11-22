@@ -33,7 +33,7 @@ Consequently, the Commission became a supranational borrower on the internationa
 
 </details>
 
-## Working Papers
+## Working Papers
 
 **Tosolini, M., [Tadjeddine, Y.](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/) and Vincensini, C., 'Becoming a safe issuer without being a sovereign: the case of bond issuance by the European Coal and Steel Community’, _BETA Working Paper_, 2026-02, 25p. [Available here in french](https://beta.u-strasbg.fr/WP/2026/2026-02.pdf).**
 
