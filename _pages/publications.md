@@ -40,7 +40,7 @@ Consequently, the Commission became a supranational borrower on the internationa
 [BETA working paper 2026-17](https://www.beta-economics.fr/working-papers/2026-17/)
 
 <details markdown="1">
-<summary><span style="color:#287A8C;font-variant: small-caps;">Abstract</span></summary>
+<summary><span style="color:#357A50;font-variant: small-caps;">Abstract</span></summary>
 
 
 Since the 1990s, a growing body of literature has examined the role of the state in the economy within the financialised accumulation regime. However, despite the proliferation of such studies, this literature remains fragmented, with no real attempt to bring coherence to it. This article pursues three objectives. First, it offers a synthetic review of this scholarship and shows that the investor state and derisking state frameworks form part of a single research programme on the public financing of the financialised economy, and that they help to explain the persistence of financialisation despite its well-documented fragilities. Second, we show through two case studies that the instruments of public financing display strong long-term continuity. Third, we argue that what truly characterises financialised public intervention is not the instruments themselves but the techniques through which they operate and their position within the architecture of public action. This article thereby echoes recent calls for periodisations that articulate continuity and rupture rather than collapse one into the other.
@@ -54,7 +54,7 @@ Since the 1990s, a growing body of literature has examined the role of the state
 [Available here in french](https://beta.u-strasbg.fr/WP/2026/2026-02.pdf).
 
 <details markdown="1">
-<summary>Abstract</summary>
+<summary><span style="color:#357A50;font-variant: small-caps;">Abstract</span></summary>
 
 Although the literature in economic history has thoroughly examined the development of sovereign debt markets and financial reputation mechanisms, little has been said about the debt of international and European institutions. This article aims to conceptualise and empirically study investor perceptions of 'quasi-sovereign' borrowers, such as the European Union and its predecessors. The article has two main objectives. Firstly, it seeks to conceptualise credit risk in the case of quasi-sovereign borrowers. Secondly, it studies the gradual development of the financial reputation of the European Coal and Steel Community (ECSC) from 1954 to 1980. Using historical archives and quantitative data, the research shows that the ECSC, a new and unknown public institution in 1954, gradually became a well-reputed borrower on financial markets. This enabled the ECSC to borrow on financial markets at better financial conditions than those of some European countries. This historical case study sheds new light on the ongoing debates on the European Union's debt and its financial reputation.
 
@@ -65,7 +65,7 @@ Although the literature in economic history has thoroughly examined the developm
 [Available here in french](https://beta.u-strasbg.fr/WP/2024/2024-28.pdf).
 
 <details markdown="1">
-<summary>Abstract</summary>
+<summary><span style="color:#357A50;font-variant: small-caps;">Abstract</span></summary>
 
 This article analyses the implementation of the borrowing policy of the first European Community, the European Coal and Steel Community (ECSC). Using historical archives and a hand-created database, I mixed a qualitative and quantitative approach to study the evolution of the financial techniques used by the ECSC to borrow on the financial markets.
 
