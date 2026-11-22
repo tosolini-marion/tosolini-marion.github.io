@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published work
+## Peer-reviewed articles
 
 
 Tosolini, M., 'Financial sovereignty and monetary dependence', _Revue d'économie financière_, 2026/3 n° 163 , 27p.
@@ -49,7 +49,7 @@ Since the 1990s, a growing body of literature has examined the role of the state
 
 
 
-**Tosolini, M., [Tadjeddine, Y.](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/) and Vincensini, C., 'Becoming a safe issuer without being a sovereign: the case of bond issuance by the European Coal and Steel Community’, _BETA Working Paper_, 2026-02, 25p.**
+Tosolini, M., [Tadjeddine, Y.](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/) and Vincensini, C., 'Becoming a safe issuer without being a sovereign: the case of bond issuance by the European Coal and Steel Community’, _BETA Working Paper_, 2026-02, 25p.
 
 [Available here in french](https://beta.u-strasbg.fr/WP/2026/2026-02.pdf).
 
@@ -60,7 +60,7 @@ Although the literature in economic history has thoroughly examined the developm
 
 </details>
 
-**Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p.**
+Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p.
 
 [Available here in french](https://beta.u-strasbg.fr/WP/2024/2024-28.pdf).
 
