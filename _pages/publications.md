@@ -9,6 +9,10 @@ Published work
 ===
 **Tosolini, M., 'The First Oil Shock and the European Financial Assistance', _Economie & Institutions_, 2024, 27p. [Available here in french](https://journals.openedition.org/ei/8044)**
 
+<details markdown="1">
+<summary>Abstract</summary>
+
+
 In this article, I study the negotiations and the implementation of the first borrowing mechanism of the European Economic Community (EEC). Using historical archives, I show that following the first oil shock, the EEC Commission sought to implement a European policy to tackle with the economic consequences of the shock. It played the role of a political entrepreneur and succeeded in imposing its views.
 
 
@@ -17,6 +21,7 @@ The Community Loan Mechanism was established in 1975, empowering the Commission 
 
 Consequently, the Commission became a supranational borrower on the international capital market (the euromarkets).
 
+</details>
 
 Working Papers
 ===
