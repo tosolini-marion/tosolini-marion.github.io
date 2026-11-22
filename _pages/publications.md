@@ -27,19 +27,24 @@ Working Papers
 ===
 **Tosolini, M., [Tadjeddine, Y.](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/) and Vincensini, C., 'Becoming a safe issuer without being a sovereign: the case of bond issuance by the European Coal and Steel Community’, _BETA Working Paper_, 2026-02, 25p. [Available here in french](https://beta.u-strasbg.fr/WP/2026/2026-02.pdf).**
 
+<details markdown="1">
+<summary>Abstract</summary>
 
 Although the literature in economic history has thoroughly examined the development of sovereign debt markets and financial reputation mechanisms, little has been said about the debt of international and European institutions. This article aims to conceptualise and empirically study investor perceptions of 'quasi-sovereign' borrowers, such as the European Union and its predecessors. The article has two main objectives. Firstly, it seeks to conceptualise credit risk in the case of quasi-sovereign borrowers. Secondly, it studies the gradual development of the financial reputation of the European Coal and Steel Community (ECSC) from 1954 to 1980. Using historical archives and quantitative data, the research shows that the ECSC, a new and unknown public institution in 1954, gradually became a well-reputed borrower on financial markets. This enabled the ECSC to borrow on financial markets at better financial conditions than those of some European countries. This historical case study sheds new light on the ongoing debates on the European Union's debt and its financial reputation.
 
+</details>
 
 **Tosolini, M., 'Financing Industries on a Community Scale: the ECSC’s Borrowing Policy’, _BETA Working Paper_, 2024-28, 22p. [Available here in french](https://beta.u-strasbg.fr/WP/2024/2024-28.pdf).**
 
+<details markdown="1">
+<summary>Abstract</summary>
 
 This article analyses the implementation of the borrowing policy of the first European Community, the European Coal and Steel Community (ECSC). Using historical archives and a hand-created database, I mixed a qualitative and quantitative approach to study the evolution of the financial techniques used by the ECSC to borrow on the financial markets.
 
 
 This study shows that the evolution of the borrowing operations reflects the evolution of the international monetary system. In an initial period, the ECSC borrowed on the American markets, in dollars. It borrowed gradually on European capital markets and then on the euro-dollar market and the euromarkets. From the 1980s onwards, the ECSC progressively became a borrower on the interbank market, using financial derivatives, such as interest or currency swaps.
 
-
+</details>
 
 _Regards croisés sur l'économie_ Publications
 ===
